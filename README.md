@@ -2,4 +2,4 @@
 
 ## Esta es la idea de mi proyecto:
 Bot discord
-Y Dos cosas del cambio climatico
+y La página web de Memes
